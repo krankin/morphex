@@ -2,7 +2,8 @@
 
 **A Simple Module to change one struct into another**
 
-##Reasoning
+## Reasoning
+
 Simply put, this library doesn't do much and that's by design. Morphex solves the problem of having data in a struct 
 (or map) and needing it to be in a different shape to continue your processing. By giving Morphex your original data,
 the struct you want it in, and a map of the mappings, it will return you the data in the struct of your choice,
